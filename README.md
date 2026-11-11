@@ -2,7 +2,7 @@
 
 Take-home analysis for the Timpani Digital Product Analyst role: what synthetic staffing snapshots say about gaps that close and then come back, and which explanation to test next.
 
-**Live page:** `https://<your-username>.github.io/<repo-name>/`
+**Live page:** `https://waldropjoe.github.io/Interview-JW/`
 
 ## Deliverables
 
