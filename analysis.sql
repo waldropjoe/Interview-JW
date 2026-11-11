@@ -1,6 +1,6 @@
 -- =====================================================================
 -- Returning staffing gaps: working analysis
--- Timpani take-home (synthetic data) | Joe Waldrop
+-- Assignment take-home (synthetic data) | Joe Waldrop
 -- Tool: DuckDB (browser shell at shell.duckdb.org, or the DuckDB CLI)
 --
 -- The file follows the same order as the summary:
