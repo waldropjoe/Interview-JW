@@ -13,7 +13,6 @@
 --
 -- Expected results are written under each query, so the file can be
 -- followed without running it. RN and PCT are never combined.
--- Sections 3 to 5 were refined after the timed hour (see README).
 -- =====================================================================
 
 
