@@ -32,7 +32,7 @@ The CSVs are not included in this repository (see the note below).
 - **DuckDB (browser shell):** all analysis: loading, data checks, first-closure and return logic with window functions, and every breakdown.
 - **Claude (AI assistant):** my technical partner under time pressure. It wrote most of the SQL, helped debug it, cross-checked the counts independently in Python and built the page. I also used it as a sounding board: it suggested candidate explanations and checks, and we tested them against the data.
 - **My role:** I set the direction, ran the queries, checked results against expected values and individual shifts, pushed back where numbers or denominators didn't reconcile, and decided which findings to lead with and what to recommend. I'm accountable for every number and choice here.
-- **Timing:** the core analysis (data checks, closure and return logic, return rate, what changed, timing) was done within the 60-minute window. The "looked covered" framing, the slack analysis, the closure-type test and this page were added afterward. Those sections are labeled in the SQL.
+
 
 ## Publishing on GitHub Pages
 
